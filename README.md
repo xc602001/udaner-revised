@@ -1,4 +1,4 @@
-# udaner-reviesed (draft)
+# udaner-revised (draft)
 
 Original: https://github.com/siqil/udaner
 
