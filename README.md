@@ -1,4 +1,7 @@
-# udaner-reviesed
+# udaner-reviesed (draft)
+
+Original: https://github.com/siqil/udaner
+
 Unsupervised Domain Adaptation for biomedical Named Entity Recognition
 
 __Unsupervised Domain Adaptation for biomedical Named Entity Recognition__
